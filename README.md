@@ -1,1 +1,1 @@
-# trial-error
+# trialerror
